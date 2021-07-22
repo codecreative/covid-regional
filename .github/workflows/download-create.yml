@@ -3,7 +3,7 @@ name: download-parse-create
 on:
   workflow_dispatch:
   schedule:
-    - cron: '9 7,8,9 * * *'
+    - cron: '9 7,8,9,12,22 * * *'
 
 jobs:
   run-download--create:
