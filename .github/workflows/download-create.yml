@@ -27,7 +27,7 @@ jobs:
         run: R -e 'source("install-packages.R", echo = TRUE)'          
         
       - name: Download, Parse and Create CSV
-        run: Rscript vaccines-un-join.R
+        run: Rscript vaccines-join.R
         
       # Add new files in data folder, commit along with other modified files, push
       - name: Commit and push if it changed
