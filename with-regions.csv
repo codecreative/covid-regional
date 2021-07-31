@@ -145,7 +145,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,dailyDosesAvg,t
 2021-07-25,OMN,Oman,1887421,1550910,336511,14437,36.96,30.37,6.59,2827,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
 2021-07-30,PAK,Pakistan,28743225,NA,6104314,587486,13.01,NA,2.76,2660,2021-02-02,"CanSino, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
 2021-07-29,PSE,West Bank + Gaza,1001415,587393,414022,3718,19.63,11.51,8.12,729,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
-2021-07-28,PAN,Panama,2327152,1637695,689457,59393,53.93,37.96,15.98,13765,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
+2021-07-30,PAN,Panama,2573226,1878898,694328,72376,59.64,43.55,16.09,16774,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-07-25,PNG,Papua New Guinea,88343,78399,9944,1833,0.99,0.88,0.11,205,2021-03-31,"Oxford/AstraZeneca, Sinopharm/Beijing",Oceania
 2021-07-25,PRY,Paraguay,2123997,1837008,286989,67830,29.78,25.76,4.02,9510,2021-02-22,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Latin America and the Caribbean
 2021-07-27,PER,Peru,12521783,7819321,4702462,191314,37.98,23.72,14.26,5802,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
@@ -177,7 +177,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,dailyDosesAvg,t
 2021-07-29,ZAF,South Africa,7297912,5921627,2835930,173258,12.3,9.98,4.78,2921,2021-02-17,"Johnson&Johnson, Pfizer/BioNTech",Africa
 2021-07-29,KOR,South Korea,24661446,18729701,7061508,323518,48.1,36.53,13.77,6310,2021-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
 2021-07-19,SSD,South Sudan,56989,52226,4763,182,0.51,0.47,0.04,16,2021-04-06,Oxford/AstraZeneca,Africa
-2021-07-28,ESP,Spain,55713142,31592444,26694887,404839,119.16,67.57,57.1,8659,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-07-29,ESP,Spain,56186601,31851618,26933847,391049,120.17,68.12,57.61,8364,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-07-30,LKA,Sri Lanka,11242718,9178909,2063809,423410,52.5,42.87,9.64,19773,2021-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2021-07-18,SDN,Sudan,810560,627833,182727,6979,1.85,1.43,0.42,159,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Africa
 2021-07-30,SUR,Suriname,244378,186297,58081,1405,41.66,31.76,9.9,2395,2021-02-23,Oxford/AstraZeneca,Latin America and the Caribbean
@@ -205,7 +205,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,dailyDosesAvg,t
 2021-07-20,UZB,Uzbekistan,5803255,3667979,1023425,88806,17.34,10.96,3.06,2653,2021-04-01,"Oxford/AstraZeneca, RBD-Dimer, Sputnik V",Asia
 2021-07-27,VUT,Vanuatu,23995,23881,114,666,7.81,7.78,0.04,2168,2021-06-02,Oxford/AstraZeneca,Oceania
 2021-07-12,VEN,Venezuela,4000000,2900000,1100000,213114,14.07,10.2,3.87,7495,2021-02-18,"Sinopharm/Beijing, Sputnik V",Latin America and the Caribbean
-2021-07-29,VNM,Vietnam,5529898,4983496,546402,159748,5.68,5.12,0.56,1641,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
+2021-07-30,VNM,Vietnam,5931376,5342483,588893,207517,6.09,5.49,0.6,2132,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2021-07-20,WLF,Wallis and Futuna,9158,4629,4529,7,81.43,41.16,40.27,622,2021-03-20,Oxford/AstraZeneca,Oceania
 2021-07-27,YEM,Yemen,311483,298161,13322,939,1.04,1,0.04,31,2021-04-20,Oxford/AstraZeneca,Asia
 2021-07-30,ZMB,Zambia,424519,284110,140409,13104,2.31,1.55,0.76,713,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
