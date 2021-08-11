@@ -38,7 +38,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,dailyDosesAvg,t
 2021-08-06,CYM,Cayman Islands,98419,50308,48111,102,149.76,76.55,73.21,1552,2021-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-08-05,CAF,Central African Republic,95282,85381,9901,140,1.97,1.77,0.2,29,2021-05-20,"Covaxin, Oxford/AstraZeneca",Africa
 2021-08-05,TCD,Chad,36173,26511,9662,885,0.22,0.16,0.06,54,2021-06-04,Sinopharm/Beijing,Africa
-2021-08-02,CHL,Chile,25688833,13857925,12337649,41304,134.38,72.49,64.54,2161,2020-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-08-08,CHL,Chile,26285490,14056388,12737914,58476,137.5,73.53,66.63,3059,2020-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-08-09,CHN,Mainland China,1782525000,NA,NA,13406000,123.84,NA,NA,9314,2020-12-15,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac",Asia
 2021-08-07,COL,Colombia,30244618,19634688,13182770,388606,59.44,38.59,25.91,7637,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-08-09,COM,Comoros,188875,121092,67783,4296,21.72,13.93,7.79,4940,2021-04-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
@@ -145,7 +145,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,dailyDosesAvg,t
 2021-06-27,OWID_CYN,Northern Cyprus,194782,108923,85859,2098,50.96,28.5,22.46,5489,2021-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Europe
 2021-08-08,NOR,Norway,5666199,3709364,1956835,35929,104.52,68.42,36.1,6627,2020-12-27,"Moderna, Pfizer/BioNTech",Europe
 2021-08-09,OMN,Oman,2656658,2008140,648518,51282,52.02,39.32,12.7,10042,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
-2021-08-07,PAK,Pakistan,37424706,29789315,NA,1110950,16.94,13.49,NA,5029,2021-02-02,"CanSino, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
+2021-08-09,PAK,Pakistan,38722292,30921232,10897649,985338,17.53,14,4.93,4461,2021-02-02,"CanSino, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
 2021-08-09,PSE,West Bank + Gaza,1038770,613756,425014,3591,20.36,12.03,8.33,704,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
 2021-08-07,PAN,Panama,3092971,2354177,738794,59039,71.68,54.56,17.12,13683,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-08-02,PNG,Papua New Guinea,100409,83122,17287,2688,1.12,0.93,0.19,300,2021-03-31,Oxford/AstraZeneca,Oceania
