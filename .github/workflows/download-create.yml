@@ -3,7 +3,7 @@ name: download-parse-create
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 8,10,23 * * *'
+    - cron: '9 7,8,9,12,22 * * *'
 
 jobs:
   run-download--create:
@@ -27,7 +27,7 @@ jobs:
         run: R -e 'source("install-packages.R", echo = TRUE)'          
         
       - name: Download, Parse and Create CSV
-        run: Rscript process.R
+        run: Rscript vaccines-join.R
         
       # Add new files in data folder, commit along with other modified files, push
       - name: Commit and push if it changed
