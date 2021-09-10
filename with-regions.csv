@@ -5,213 +5,210 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2021-08-29,AND,Andorra,93430,51599,41831,NA,126,120.78,66.71,54.08,NA,1629,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-01,AGO,Angola,2086325,1165755,920570,NA,34965,6.15,3.44,2.71,NA,1030,2021-03-02,Oxford/AstraZeneca,Africa
 2021-09-03,AIA,Anguilla,18471,9493,8978,NA,1,122.12,62.76,59.36,NA,66,2021-02-05,Oxford/AstraZeneca,Latin America and the Caribbean
-2021-08-31,ATG,Antigua and Barbuda,75069,41061,34008,NA,310,76.04,41.59,34.45,NA,3140,2021-02-17,Oxford/AstraZeneca,Latin America and the Caribbean
-2021-09-08,ARG,Argentina,45523595,28485407,17038188,NA,390131,99.82,62.46,37.36,NA,8554,2020-12-29,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Latin America and the Caribbean
+2021-09-07,ATG,Antigua and Barbuda,77997,42938,35059,NA,418,79,43.49,35.51,NA,4234,2021-02-17,Oxford/AstraZeneca,Latin America and the Caribbean
+2021-09-09,ARG,Argentina,45917635,28553239,17364418,NA,385101,100.68,62.61,38.08,NA,8444,2020-12-29,"CanSino, Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Latin America and the Caribbean
 2021-09-05,ARM,Armenia,303325,195290,108035,NA,4027,10.22,6.58,3.64,NA,1357,2021-03-31,"Oxford/AstraZeneca, Sinovac, Sputnik V",Asia
-2021-09-08,ABW,Aruba,149974,79341,70633,NA,192,139.91,74.02,65.89,NA,1791,2021-02-17,Pfizer/BioNTech,Latin America and the Caribbean
-2021-09-08,AUS,Australia,21539586,13410468,8129118,NA,263155,83.52,52,31.52,NA,10204,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",Oceania
-2021-09-08,AUT,Austria,10556624,5562206,5263774,NA,11144,116.74,61.51,58.21,NA,1232,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-07,AZE,Azerbaijan,7307149,4391664,2915485,NA,71630,71.48,42.96,28.52,NA,7007,2021-01-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",Asia
+2021-09-09,ABW,Aruba,150216,79400,70816,NA,193,140.13,74.07,66.06,NA,1800,2021-02-17,Pfizer/BioNTech,Latin America and the Caribbean
+2021-09-09,AUS,Australia,21850954,13579241,8271713,NA,260410,84.73,52.66,32.08,NA,10098,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",Oceania
+2021-09-09,AUT,Austria,10592343,5583675,5280942,NA,11265,117.13,61.75,58.4,NA,1246,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,AZE,Azerbaijan,7430450,4442484,2987966,NA,60074,72.68,43.45,29.23,NA,5876,2021-01-18,"Oxford/AstraZeneca, Sinovac, Sputnik V",Asia
 2021-09-04,BHS,Bahamas,161613,105753,59002,NA,2125,40.72,26.64,14.87,NA,5354,2021-03-14,Oxford/AstraZeneca,Latin America and the Caribbean
-2021-09-08,BHR,Bahrain,2514027,1153858,1094977,NA,3036,143.8,66,62.63,NA,1737,2020-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
-2021-09-08,BGD,Bangladesh,31596628,19840998,11755630,NA,694868,19,11.93,7.07,NA,4178,2021-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
+2021-09-09,BHR,Bahrain,2515690,1154586,1095573,NA,2605,143.89,66.04,62.67,NA,1490,2020-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-09,BGD,Bangladesh,32751434,20141795,12609639,NA,822593,19.69,12.11,7.58,NA,4946,2021-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2021-09-07,BRB,Barbados,213075,117259,95816,NA,1060,74.06,40.76,33.3,NA,3684,2021-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
-2021-08-29,BLR,Belarus,2963378,1626825,1336553,NA,18591,31.38,17.23,14.15,NA,1969,2020-12-29,"Sinopharm/Beijing, Sputnik V",Europe
+2021-09-05,BLR,Belarus,3085256,1692439,1392817,NA,17411,32.67,17.92,14.75,NA,1844,2020-12-29,"Sinopharm/Beijing, Sputnik V",Europe
 2021-09-08,BEL,Belgium,16339369,8474204,8227432,NA,14869,140.47,72.85,70.73,NA,1278,2020-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-07,BLZ,Belize,251317,173648,77669,NA,1628,62.07,42.89,19.18,NA,4021,2021-03-01,"Oxford/AstraZeneca, Sinopharm/Beijing",Latin America and the Caribbean
-2021-09-01,BEN,Benin,141738,120333,NA,NA,3393,1.14,0.97,NA,NA,273,2021-03-29,"Oxford/AstraZeneca, Sinovac",Africa
+2021-09-09,BEN,Benin,174074,152669,NA,NA,4042,1.4,1.23,NA,NA,325,2021-03-29,"Oxford/AstraZeneca, Sinovac",Africa
 2021-09-03,BMU,Bermuda,85415,43128,42287,NA,95,137.56,69.46,68.1,NA,1530,2021-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech",North America
 2021-08-30,BTN,Bhutan,1045074,567143,477931,NA,1030,134,72.72,61.28,NA,1321,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
-2021-09-06,BOL,Bolivia,6153318,4085788,2870996,NA,31156,52,34.53,24.26,NA,2633,2021-01-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Latin America and the Caribbean
+2021-09-08,BOL,Bolivia,6216576,4106665,2922457,NA,22703,52.54,34.71,24.7,NA,1919,2021-01-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Latin America and the Caribbean
 2021-09-01,BES,"Bonaire, Sint Eustatius and Saba",35845,19109,16736,NA,196,135.55,72.26,63.29,NA,7412,2021-02-22,"Moderna, Pfizer/BioNTech",Latin America and the Caribbean
 2021-09-07,BIH,Bosnia–Herzegovina,1060145,634063,426082,NA,6601,32.49,19.43,13.06,NA,2023,2021-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Europe
-2021-09-01,BWA,Botswana,528003,320308,207695,NA,13337,22.03,13.36,8.66,NA,5563,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Africa
-2021-09-06,BRA,Brazil,202266292,139358218,67383668,NA,1537738,94.52,65.12,31.49,NA,7186,2021-01-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-09-09,BWA,Botswana,573691,355273,218418,NA,5711,23.93,14.82,9.11,NA,2382,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Africa
+2021-09-08,BRA,Brazil,203930265,140010729,68402645,NA,1201300,95.3,65.43,31.96,NA,5614,2021-01-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-09-03,VGB,British Virgin Islands,32229,18405,13824,NA,343,105.94,60.5,45.44,NA,11274,2021-02-11,"Johnson&Johnson, Oxford/AstraZeneca",Latin America and the Caribbean
 2021-09-06,BRN,Brunei,353428,234945,118483,NA,5058,80.05,53.21,26.83,NA,11456,2021-04-03,"Oxford/AstraZeneca, Sinopharm/Beijing",Asia
-2021-09-08,BGR,Bulgaria,2380022,NA,1217377,NA,7911,34.51,NA,17.65,NA,1147,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,BGR,Bulgaria,2391930,NA,1225164,NA,7871,34.68,NA,17.76,NA,1141,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-08-31,BFA,Burkina Faso,108799,108799,13273,NA,1266,0.51,0.51,0.06,NA,59,2021-06-02,Oxford/AstraZeneca,Africa
-2021-09-07,KHM,Cambodia,20187062,11328393,9079672,696229,157306,119.12,66.85,53.58,4.11,9283,2021-02-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Asia
+2021-09-09,KHM,Cambodia,20312411,11363778,9164169,710730,130164,119.86,67.06,54.08,4.19,7681,2021-02-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Asia
 2021-09-06,CMR,Cameroon,435676,355561,80115,NA,1060,1.6,1.31,0.29,NA,39,2021-04-12,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
-2021-09-08,CAN,Canada,54058503,28218516,25839987,NA,87365,142.01,74.13,67.88,NA,2295,2020-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",North America
+2021-09-09,CAN,Canada,54161320,28264207,25897113,NA,87841,142.28,74.25,68.03,NA,2307,2020-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",North America
 2021-08-31,CPV,Cabo Verde,309001,236158,72843,NA,2770,54.99,42.03,12.96,NA,4930,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",Africa
 2021-09-08,CYM,Cayman Islands,102399,52433,49966,NA,173,153.99,78.85,75.14,NA,2602,2021-01-08,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
-2021-08-25,CAF,Central African Republic,108895,77771,26000,NA,1448,2.21,1.58,0.53,NA,294,2021-05-20,"Covaxin, Oxford/AstraZeneca",Africa
-2021-09-02,TCD,Chad,68267,51771,16496,NA,2567,0.4,0.31,0.1,NA,152,2021-06-04,Sinopharm/Beijing,Africa
-2021-09-07,CHL,Chile,29770427,14467293,13862151,1995268,104340,154.95,75.3,72.15,10.39,5431,2020-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
-2021-09-08,CHN,Mainland China,2124582000,NA,NA,NA,6879143,147.11,NA,NA,NA,4763,2020-12-15,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",Asia
-2021-09-06,COL,Colombia,36438763,24293656,14933403,NA,154735,71.08,47.39,29.13,NA,3018,2021-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-09-09,CAF,Central African Republic,112492,102591,9901,NA,240,2.29,2.09,0.2,NA,49,2021-05-20,"Covaxin, Oxford/AstraZeneca",Africa
+2021-09-09,TCD,Chad,76242,60431,15811,NA,1139,0.45,0.36,0.09,NA,67,2021-06-04,Sinopharm/Beijing,Africa
+2021-09-08,CHL,Chile,29923619,14469748,13880082,2128834,103775,155.75,75.31,72.25,11.08,5401,2020-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-09-09,CHN,Mainland China,2129833000,NA,NA,NA,6454714,147.47,NA,NA,NA,4469,2020-12-15,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",Asia
+2021-09-06,COL,Colombia,36657856,24385597,15066025,NA,186034,71.51,47.57,29.39,NA,3629,2021-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-08-27,COM,Comoros,277419,175038,102389,NA,5466,31.22,19.7,11.52,NA,6152,2021-04-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
-2021-08-25,COG,Congo,290287,184812,105475,NA,2720,5.13,3.27,1.86,NA,481,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Africa
+2021-09-09,COG,Congo,309575,198954,110621,NA,1286,5.47,3.52,1.96,NA,227,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Africa
 2021-08-31,COK,Cook Islands,22456,11416,11040,NA,46,127.79,64.97,62.83,NA,2618,2021-05-18,Oxford/AstraZeneca,Oceania
 2021-09-08,CRI,Costa Rica,4580610,3071596,1509014,NA,33567,89.13,59.77,29.36,NA,6532,2020-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-09-07,CIV,Ivory Coast,1459525,1459525,NA,NA,15139,5.39,5.39,NA,NA,560,2021-03-01,Oxford/AstraZeneca,Africa
 2021-09-08,HRV,Croatia,3314168,1750418,1640053,NA,5030,81.2,42.88,40.18,NA,1232,2020-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-05,CUB,Cuba,15242254,5866453,4604912,NA,214633,134.68,51.84,40.69,NA,18965,2021-05-10,"Abdala, Soberana02",Latin America and the Caribbean
+2021-09-07,CUB,Cuba,15242020,6104513,4171907,11355,160918,134.68,53.94,36.86,0.1,14219,2021-05-10,"Abdala, Soberana02",Latin America and the Caribbean
 2021-09-08,CUW,Curaçao,184056,96737,87319,NA,161,111.69,58.7,52.99,NA,977,2021-02-24,"Moderna, Pfizer/BioNTech",Latin America and the Caribbean
 2021-09-08,CYP,Cyprus,1115513,583768,531745,NA,2454,125.62,65.74,59.88,NA,2763,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
-2021-09-08,CZE,Czech Republic,11593494,5989031,5815331,NA,13438,108.1,55.84,54.22,NA,1253,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,CZE,Czech Republic,11608825,5995821,5825547,NA,12879,108.25,55.91,54.32,NA,1201,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-05,COD,Dem. Rep. Congo,111142,83667,18047,NA,2238,0.12,0.09,0.02,NA,24,2021-04-19,Oxford/AstraZeneca,Africa
-2021-09-08,DNK,Denmark,8648547,4425025,4269947,NA,8817,148.77,76.12,73.45,NA,1517,2020-12-27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Europe
-2021-09-01,DJI,Djibouti,60141,36344,23797,NA,271,6,3.63,2.37,NA,270,2021-03-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
+2021-09-08,DNK,Denmark,8648547,4427139,4276594,NA,8817,148.77,76.16,73.57,NA,1517,2020-12-27,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Europe
+2021-09-09,DJI,Djibouti,64721,38634,26087,NA,572,6.46,3.85,2.6,NA,571,2021-03-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
 2021-09-03,DMA,Dominica,42837,22559,20278,NA,44,59.35,31.26,28.1,NA,610,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
-2021-09-07,DOM,Dominican Republic,11344569,5876522,4721182,746865,27504,103.57,53.65,43.1,6.82,2511,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Latin America and the Caribbean
-2021-09-05,ECU,Ecuador,20022702,10699102,9323600,NA,108844,111.93,59.81,52.12,NA,6085,2021-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
-2021-09-05,EGY,Egypt,10418988,6913913,3505075,NA,202543,9.99,6.63,3.36,NA,1943,2021-01-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
-2021-09-07,SLV,El Salvador,6692185,3731756,2960429,NA,56261,102.66,57.25,45.42,NA,8631,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-09-08,DOM,Dominican Republic,11382125,5888643,4733550,759932,27529,103.91,53.76,43.21,6.94,2513,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Latin America and the Caribbean
+2021-09-07,ECU,Ecuador,20170825,10699102,9471723,NA,94054,112.76,59.81,52.95,NA,5258,2021-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
+2021-09-09,EGY,Egypt,10769834,7076086,3693748,NA,160213,10.33,6.79,3.54,NA,1537,2021-01-24,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
+2021-09-09,SLV,El Salvador,6827005,3790602,3036403,NA,50965,104.73,58.15,46.58,NA,7819,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-09-04,GNQ,Equatorial Guinea,360446,204222,156224,NA,1916,24.86,14.09,10.77,NA,1321,2021-02-12,Sinopharm/Beijing,Africa
 2021-09-08,EST,Estonia,1298749,737321,561428,NA,3300,98,55.64,42.37,NA,2490,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-08-25,SWZ,Eswatini,239519,NA,NA,NA,4546,20.43,NA,NA,NA,3878,2021-03-19,Oxford/AstraZeneca,Africa
+2021-09-05,SWZ,Eswatini,208541,179200,171325,NA,1135,17.79,15.29,14.61,NA,968,2021-03-19,Oxford/AstraZeneca,Africa
 2021-09-08,ETH,Ethiopia,2654956,2654956,NA,NA,28452,2.25,2.25,NA,NA,241,2021-03-13,Oxford/AstraZeneca,Africa
 2021-09-08,FRO,Faroe Islands,72246,37106,35140,NA,133,147.28,75.64,71.64,NA,2711,2020-12-30,"Moderna, Pfizer/BioNTech",Europe
 2021-04-14,FLK,Falkland Islands,4407,2632,1775,NA,12,124.91,74.6,50.31,NA,3401,2021-02-08,Oxford/AstraZeneca,Latin America and the Caribbean
 2021-09-07,FJI,Fiji,866153,566210,299943,NA,5800,95.93,62.71,33.22,NA,6424,2021-03-10,Oxford/AstraZeneca,Oceania
 2021-09-08,FIN,Finland,7104015,4064019,3039996,NA,34072,128.04,73.25,54.79,NA,6141,2020-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-07,FRA,France,90260619,49150120,41836746,292560,309580,133.59,72.75,61.92,0.43,4582,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-08,FRA,France,90583383,49239856,42044250,319663,294596,134.07,72.88,62.23,0.47,4360,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-07,PYF,French Polynesia,257265,142109,115156,NA,3164,91.06,50.3,40.76,NA,11199,2021-01-14,"Johnson&Johnson, Pfizer/BioNTech",Oceania
 2021-09-03,GAB,Gabon,146464,84214,62250,NA,1741,6.43,3.7,2.73,NA,764,2021-03-23,Sinopharm/Beijing,Africa
 2021-08-26,GMB,Gambia,351281,193496,157785,NA,3322,14.13,7.78,6.34,NA,1336,2021-03-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-07,GEO,Georgia,1366678,856956,509722,NA,22276,34.34,21.53,12.81,NA,5597,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
-2021-09-08,DEU,Germany,103559222,55039872,51329215,135147,183084,123.43,65.6,61.18,0.16,2182,2020-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,DEU,Germany,103814560,55144235,51465740,162467,182359,123.74,65.73,61.34,0.19,2174,2020-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-07-19,GHA,Ghana,1271393,865422,405971,NA,870,4.01,2.73,1.28,NA,27,2021-03-02,"Oxford/AstraZeneca, Sputnik V",Africa
 2021-09-08,GIB,Gibraltar,79027,39757,39270,NA,20,234.56,118,116.56,NA,594,2021-01-10,Pfizer/BioNTech,Europe
-2021-09-08,GRC,Greece,11608678,6199953,5809940,NA,24181,111.94,59.78,56.02,NA,2332,2021-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,GRC,Greece,11635474,6218580,5820279,NA,24070,112.2,59.96,56.12,NA,2321,2021-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-06,GRL,Greenland,73687,40201,33486,NA,157,129.58,70.69,58.88,NA,2761,2021-01-04,Moderna,North America
 2021-09-03,GRD,Grenada,45460,26088,19372,NA,425,40.22,23.08,17.14,NA,3761,2021-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
-2021-09-06,GTM,Guatemala,5086774,3576111,1510663,NA,82657,27.87,19.6,8.28,NA,4529,2021-02-25,"Moderna, Oxford/AstraZeneca",Latin America and the Caribbean
+2021-09-07,GTM,Guatemala,5242013,3673724,1568289,NA,90695,28.72,20.13,8.59,NA,4970,2021-02-25,"Moderna, Oxford/AstraZeneca",Latin America and the Caribbean
 2021-09-08,GGY,Guernsey,100756,NA,NA,NA,182,150.27,NA,NA,NA,2714,2020-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-06,GIN,Guinea,1286157,884320,401837,NA,12353,9.53,6.55,2.98,NA,915,2020-12-30,Sputnik V,Africa
 2021-08-23,GNB,Guinea-Bissau,31090,28097,2993,NA,44,1.54,1.39,0.15,NA,22,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-08,GUY,Guyana,495220,325095,170125,NA,2445,62.66,41.13,21.53,NA,3094,2021-02-11,"Oxford/AstraZeneca, Sputnik V",Latin America and the Caribbean
 2021-09-07,HTI,Haiti,46201,34317,12225,NA,1494,0.4,0.3,0.11,NA,129,2021-07-16,"Johnson&Johnson, Oxford/AstraZeneca",Latin America and the Caribbean
 2021-09-06,HND,Honduras,4526090,2896759,1629331,NA,56130,44.98,28.79,16.19,NA,5578,2021-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Latin America and the Caribbean
-2021-09-08,HKG,Hong Kong,7967549,4284908,3682641,NA,47118,105.49,56.73,48.76,NA,6238,2021-02-26,"Pfizer/BioNTech, Sinovac",Asia
-2021-09-08,HUN,Hungary,11826680,5830217,NA,461000,27554,122.76,60.52,NA,4.79,2860,2020-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
-2021-09-07,ISL,Iceland,530746,280122,264629,40112,471,154.57,81.58,77.07,11.68,1372,2020-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,IND,India,710550810,543462433,167088377,NA,6996271,50.99,39,11.99,NA,5021,2021-01-16,"Covaxin, Oxford/AstraZeneca, Sputnik V",Asia
-2021-09-08,IDN,Indonesia,108916110,69194539,39721571,NA,1175970,39.41,25.04,14.37,NA,4255,2021-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
+2021-09-09,HKG,Hong Kong,8010336,4298303,3712033,NA,46399,106.06,56.91,49.15,NA,6143,2021-02-26,"Pfizer/BioNTech, Sinovac",Asia
+2021-09-09,ISL,Iceland,533024,280311,265096,41755,612,155.24,81.64,77.21,12.16,1782,2020-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,IND,India,720910239,550694661,170215578,NA,7304945,51.74,39.52,12.22,NA,5242,2021-01-16,"Covaxin, Oxford/AstraZeneca, Sputnik V",Asia
+2021-09-09,IDN,Indonesia,110685380,70322560,40362820,NA,1185767,40.05,25.45,14.61,NA,4291,2021-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
 2021-09-05,IRN,Iran,29152527,19467858,9684669,NA,425200,34.29,22.9,11.39,NA,5001,2021-02-09,"COVIran Barekat, Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Asia
 2021-09-06,IRQ,Iraq,3754174,NA,NA,NA,55047,9.12,NA,NA,NA,1337,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2021-09-08,IRL,Ireland,6969334,3723052,3480212,NA,16527,139.86,74.72,69.84,NA,3317,2020-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,IMN,Isle of Man,128384,65296,63088,NA,91,150.31,76.45,73.86,NA,1065,2021-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,ISR,Israel,14233732,6024333,5519092,2690307,51089,161.94,68.54,62.79,30.61,5812,2020-12-19,"Moderna, Pfizer/BioNTech",Asia
-2021-09-08,ITA,Italy,80013442,43480922,37983242,NA,254462,132.54,72.03,62.92,NA,4215,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,JAM,Jamaica,600021,458696,151755,NA,7144,20.18,15.43,5.1,NA,2403,2021-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
-2021-09-08,JPN,Japan,140295783,77749452,62546331,NA,1180279,111.3,61.68,49.62,NA,9364,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
-2021-09-01,JEY,Jersey,149353,76478,72875,NA,178,147.77,75.67,72.1,NA,1761,2020-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,JOR,Jordan,6594040,3543990,3050050,NA,20176,64.21,34.51,29.7,NA,1965,2021-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
-2021-09-08,KAZ,Kazakhstan,12684463,6928646,5755817,NA,82311,66.78,36.48,30.3,NA,4333,2021-02-01,"QazVac, Sinopharm/HayatVax, Sputnik V",Asia
+2021-09-09,IMN,Isle of Man,128522,65303,63219,NA,106,150.48,76.46,74.02,NA,1241,2021-01-04,"Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,ISR,Israel,14326919,6031582,5531610,2763727,46254,163,68.62,62.93,31.44,5262,2020-12-19,"Moderna, Pfizer/BioNTech",Asia
+2021-09-09,ITA,Italy,80293447,43569352,38176270,NA,251501,133.01,72.17,63.24,NA,4166,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,JAM,Jamaica,606286,464848,152743,NA,7262,20.39,15.63,5.14,NA,2442,2021-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
+2021-09-09,JPN,Japan,141432726,78354959,63077767,NA,1196360,112.2,62.16,50.04,NA,9491,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
+2021-09-05,JEY,Jersey,149748,76630,73118,NA,146,148.16,75.82,72.34,NA,1445,2020-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,JOR,Jordan,6617461,3553514,3063947,NA,23159,64.44,34.6,29.84,NA,2255,2021-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-09,KAZ,Kazakhstan,12764970,6969069,5795901,NA,78977,67.2,36.69,30.51,NA,4158,2021-02-01,"QazVac, Sinopharm/HayatVax, Sputnik V",Asia
 2021-09-08,KEN,Kenya,2934285,2117075,817210,NA,20282,5.34,3.85,1.49,NA,369,2021-03-05,"Oxford/AstraZeneca, Sputnik V",Africa
 2021-08-26,KIR,Kiribati,24229,19589,4640,NA,603,19.96,16.14,3.82,NA,4968,2021-05-26,Oxford/AstraZeneca,Oceania
 2021-09-07,KGZ,Kyrgyzstan,1211784,714055,494364,NA,10049,18.28,10.77,7.46,NA,1516,2021-03-29,"Sinopharm/Beijing, Sputnik V",Asia
 2021-09-07,LAO,Laos,4402770,2560372,1842398,NA,23461,59.66,34.7,24.97,NA,3179,2020-12-31,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
-2021-09-08,LVA,Latvia,1543254,874648,780514,NA,4368,82.66,46.85,41.81,NA,2340,2020-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,LBN,Lebanon,2571182,1426561,1144621,NA,13595,37.98,21.07,16.91,NA,2008,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-09,LVA,Latvia,1546818,875512,783375,NA,4398,82.85,46.9,41.96,NA,2356,2020-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,LBN,Lebanon,2584540,1433885,1150655,NA,12853,38.18,21.18,17,NA,1899,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2021-08-28,LSO,Lesotho,201795,NA,NA,NA,14590,9.35,NA,NA,NA,6758,2021-03-10,Oxford/AstraZeneca,Africa
 2021-08-23,LBR,Liberia,113680,104545,27392,NA,793,2.19,2.02,0.53,NA,153,2021-04-01,Oxford/AstraZeneca,Africa
-2021-09-01,LBY,Libya,1130485,1071946,58539,NA,15372,16.25,15.4,0.84,NA,2209,2021-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
-2021-09-07,LIE,Liechtenstein,43295,22942,20636,NA,22,113.18,59.97,53.94,NA,575,2021-01-18,"Moderna, Pfizer/BioNTech",Europe
-2021-09-08,LTU,Lithuania,3241747,1688627,1553120,NA,8876,120.52,62.78,57.74,NA,3300,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,LUX,Luxembourg,769652,410438,359214,NA,760,121.24,64.65,56.59,NA,1197,2020-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,LBY,Libya,1274076,1163013,111063,NA,17949,18.31,16.71,1.6,NA,2579,2021-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
+2021-09-08,LIE,Liechtenstein,43295,22943,20637,NA,22,113.18,59.98,53.95,NA,575,2021-01-18,"Moderna, Pfizer/BioNTech",Europe
+2021-09-09,LTU,Lithuania,3253859,1693402,1560457,NA,8601,120.97,62.95,58.01,NA,3198,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,LUX,Luxembourg,770501,410887,359614,NA,806,121.37,64.73,56.65,NA,1270,2020-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-06,MAC,Macao,607741,329375,280322,NA,1341,92.31,50.03,42.58,NA,2037,2021-02-09,"Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2021-09-06,MDG,Madagascar,283091,210666,86090,NA,1230,1,0.74,0.3,NA,43,2021-05-10,Oxford/AstraZeneca,Africa
 2021-09-07,MWI,Malawi,916777,701061,435997,NA,4764,4.67,3.57,2.22,NA,242,2021-03-11,"Johnson&Johnson, Oxford/AstraZeneca",Africa
-2021-09-08,MYS,Malaysia,37392241,20944713,16492295,NA,320252,114.08,63.9,50.32,NA,9771,2021-02-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Asia
+2021-09-09,MYS,Malaysia,37714587,21082861,16680780,NA,313548,115.07,64.32,50.89,NA,9566,2021-02-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Asia
 2021-09-07,MDV,Maldives,694902,386807,308095,NA,1135,127.83,71.15,56.67,NA,2088,2021-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2021-09-06,MLI,Mali,344151,257674,86477,NA,5339,1.65,1.24,0.41,NA,256,2021-03-31,Oxford/AstraZeneca,Africa
-2021-09-06,MLT,Malta,800572,415622,414343,NA,606,155.58,80.77,80.52,NA,1178,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-01,MRT,Mauritania,265877,243757,22120,NA,1302,5.57,5.1,0.46,NA,273,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
-2021-09-01,MUS,Mauritius,1564974,816020,748954,NA,9782,122.89,64.08,58.81,NA,7682,2021-01-26,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-09-09,MRT,Mauritania,306666,285121,21545,NA,5099,6.42,5.97,0.45,NA,1068,2021-03-26,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-09-09,MUS,Mauritius,1591414,828108,763306,NA,3305,124.97,65.03,59.94,NA,2595,2021-01-26,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-07,MEX,Mexico,88593229,59614774,36864200,NA,459678,68.01,45.77,28.3,NA,3529,2020-12-24,"CanSino, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Latin America and the Caribbean
-2021-09-08,MDA,Moldova,1317848,NA,718749,NA,4012,32.75,NA,17.86,NA,997,2021-03-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
+2021-09-09,MDA,Moldova,1322289,NA,722421,NA,4131,32.86,NA,17.95,NA,1027,2021-03-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
 2021-09-02,MCO,Monaco,48691,26135,22556,NA,116,123.21,66.13,57.07,NA,2935,2020-12-31,Pfizer/BioNTech,Europe
-2021-09-08,MNG,Mongolia,4355047,2245049,2109998,NA,2508,130.81,67.43,63.38,NA,753,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
-2021-09-08,MNE,Montenegro,408060,216464,191596,NA,1668,64.97,34.47,30.51,NA,2656,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
+2021-09-09,MNG,Mongolia,4356196,2245323,2110873,NA,2187,130.84,67.44,63.4,NA,657,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-09,MNE,Montenegro,410238,217401,192837,NA,1631,65.32,34.62,30.7,NA,2597,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
 2021-09-03,MSR,Montserrat,2837,1466,1371,NA,0,56.96,29.43,27.52,NA,0,2021-02-08,Oxford/AstraZeneca,Latin America and the Caribbean
-2021-09-08,MAR,Morocco,35722890,19620474,16102416,NA,223135,95.66,52.54,43.12,NA,5975,2021-01-28,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-09-09,MAR,Morocco,36003650,19745725,16257925,NA,237764,96.41,52.87,43.53,NA,6367,2021-01-28,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-08-25,MOZ,Mozambique,2297842,1643520,654322,NA,88850,7.14,5.11,2.03,NA,2762,2021-03-08,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-08-21,MMR,Myanmar,6253687,4456857,1796830,NA,53994,11.41,8.13,3.28,NA,985,2021-01-27,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Asia
-2021-09-01,"NAM",Namibia,329062,213438,115624,NA,3425,12.72,8.25,4.47,NA,1324,2021-03-19,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-09-09,"NAM",Namibia,352962,223071,129891,NA,2988,13.64,8.62,5.02,NA,1155,2021-03-19,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-08-20,NRU,Nauru,14790,7612,7178,NA,10,136.03,70.01,66.02,NA,920,2021-04-09,Oxford/AstraZeneca,Oceania
-2021-09-07,NPL,Nepal,10616578,5603757,5012821,NA,116795,35.78,18.88,16.89,NA,3936,2021-01-27,"Oxford/AstraZeneca, Sinopharm/Beijing",Asia
+2021-09-09,NPL,Nepal,10832033,5729789,5102244,NA,104024,36.5,19.31,17.19,NA,3505,2021-01-27,"Oxford/AstraZeneca, Sinopharm/Beijing",Asia
 2021-09-05,NLD,Netherlands,22071478,12020710,10842385,NA,16450,128.52,70,63.14,NA,958,2021-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-07,NCL,New Caledonia,158270,86125,72145,NA,908,54.91,29.88,25.03,NA,3150,2021-01-20,Pfizer/BioNTech,Oceania
-2021-09-08,NZL,New Zealand,4100657,2711485,1389172,NA,71658,84.36,55.78,28.58,NA,14742,2021-02-20,Pfizer/BioNTech,Oceania
+2021-09-09,NZL,New Zealand,4163418,2758597,1404821,NA,67779,85.66,56.75,28.9,NA,13944,2021-02-20,Pfizer/BioNTech,Oceania
 2021-09-03,NIC,Nicaragua,669904,463656,206248,NA,3453,10,6.92,3.08,NA,515,2021-03-02,"Oxford/AstraZeneca, Sputnik V",Latin America and the Caribbean
 2021-08-28,NER,Niger,491738,404246,87492,NA,357,1.96,1.61,0.35,NA,14,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-06,NGA,Nigeria,5176869,3600858,1576011,NA,118263,2.45,1.7,0.75,NA,559,2021-03-05,"Moderna, Oxford/AstraZeneca",Africa
-2021-08-09,NIU,Niue,2406,NA,NA,NA,35,149.07,NA,NA,NA,21685,2021-06-03,Oxford/AstraZeneca,Oceania
+2021-08-02,NIU,Niue,2352,1202,1150,NA,42,145.72,74.47,71.25,NA,26022,2021-06-03,Oxford/AstraZeneca,Oceania
 2021-09-08,MKD,North Macedonia,1326584,737011,589573,NA,8417,63.7,35.39,28.31,NA,4041,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Europe
 2021-08-15,OWID_CYN,Northern Cyprus,302854,160361,142493,NA,2206,79.23,41.95,37.28,NA,5771,2021-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Europe
 2021-09-08,NOR,Norway,7334032,3943645,3390387,NA,39169,134.18,72.15,62.03,NA,7166,2020-12-27,"Moderna, Pfizer/BioNTech",Europe
 2021-09-05,OMN,Oman,4036350,2592464,1443886,NA,48165,77.27,49.63,27.64,NA,9221,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
-2021-09-08,PAK,Pakistan,65505999,49572385,20912015,NA,1049898,29.09,22.01,9.29,NA,4662,2021-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
-2021-09-08,PSE,West Bank + Gaza,1651049,1168458,482591,NA,28615,31.61,22.37,9.24,NA,5479,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
-2021-09-08,PAN,Panama,4729327,2823629,1905698,NA,46606,107.94,64.44,43.49,NA,10637,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
+2021-09-09,PAK,Pakistan,66456245,50195479,21292706,NA,1010212,29.51,22.29,9.46,NA,4486,2021-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
+2021-09-09,PSE,West Bank + Gaza,1673806,1185157,488649,NA,24370,32.05,22.69,9.36,NA,4666,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
+2021-09-09,PAN,Panama,4771874,2833211,1938663,NA,43622,108.91,64.66,44.25,NA,9956,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-08-30,PNG,Papua New Guinea,134444,102739,31705,NA,1528,1.47,1.13,0.35,NA,168,2021-03-31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",Oceania
 2021-09-05,PRY,Paraguay,4095681,2286112,1809569,NA,11636,56.73,31.67,25.06,NA,1612,2021-02-22,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Latin America and the Caribbean
-2021-09-04,PER,Peru,19362452,10866694,8495758,NA,137446,58.04,32.57,25.47,NA,4120,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
-2021-09-08,PHL,Philippines,37176513,NA,15837799,NA,437742,33.48,NA,14.26,NA,3942,2021-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
+2021-09-08,PER,Peru,20233007,11553723,8679284,NA,171994,60.65,34.63,26.02,NA,5156,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
+2021-09-09,PHL,Philippines,37728114,NA,16138934,NA,454876,33.97,NA,14.53,NA,4096,2021-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
 2021-09-07,PCN,Pitcairn,94,47,47,NA,0,200,100,100,NA,0,2021-05-18,Oxford/AstraZeneca,Oceania
 2021-09-08,POL,Poland,36604902,19448585,19011042,NA,38476,96.85,51.46,50.3,NA,1018,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,PRT,Portugal,15193257,8782886,8006973,NA,58748,149.42,86.38,78.75,NA,5778,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,QAT,Qatar,4550682,2349013,2201669,NA,10103,155.29,80.16,75.13,NA,3448,2020-12-23,"Moderna, Pfizer/BioNTech",Asia
+2021-09-09,PRT,Portugal,15234083,8792791,8037894,NA,56849,149.82,86.48,79.05,NA,5591,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,QAT,Qatar,4561509,2351673,2209836,NA,8587,155.66,80.25,75.41,NA,2930,2020-12-23,"Moderna, Pfizer/BioNTech",Asia
 2021-09-08,ROU,Romania,9841281,5296108,5186126,NA,8423,51.45,27.69,27.11,NA,440,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,RUS,Russia,83818838,44912606,38906232,NA,370403,57.44,30.78,26.66,NA,2539,2020-12-05,"EpiVacCorona, Sputnik V",Europe
+2021-09-09,RUS,Russia,84307408,45079017,39228391,NA,385429,57.78,30.89,26.88,NA,2642,2020-12-05,"EpiVacCorona, Sputnik V",Europe
 2021-09-06,RWA,Rwanda,2569906,1662759,907147,NA,49453,19.36,12.52,6.83,NA,3725,2021-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Africa
 2021-05-05,SHN,"Saint Helena, Ascension and Tristan da Cunha",7892,4361,3531,NA,97,129.48,71.55,57.93,NA,15915,2021-01-26,Oxford/AstraZeneca,Africa
 2021-09-06,KNA,Saint Kitts and Nevis,46372,24458,21914,NA,56,86.6,45.68,40.93,NA,1046,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-08-30,LCA,Saint Lucia,64523,36750,27773,NA,359,34.99,19.93,15.06,NA,1947,2021-02-17,Oxford/AstraZeneca,Latin America and the Caribbean
 2021-09-04,VCT,Saint Vincent and the Grenadines,30958,19066,11892,NA,1,27.82,17.14,10.69,NA,9,2021-02-01,Oxford/AstraZeneca,Latin America and the Caribbean
 2021-09-07,WSM,Samoa,137958,94441,43517,NA,528,68.93,47.19,21.74,NA,2638,2021-04-18,Oxford/AstraZeneca,Oceania
-2021-09-05,SMR,San Marino,46562,23979,23979,NA,11,136.91,70.51,70.51,NA,323,2021-02-25,"Pfizer/BioNTech, Sputnik V",Europe
+2021-09-08,SMR,San Marino,46564,23980,23980,NA,1,136.91,70.51,70.51,NA,29,2021-02-25,"Pfizer/BioNTech, Sputnik V",Europe
 2021-09-06,STP,Sao Tome and Principe,50886,38979,11907,NA,690,22.78,17.45,5.33,NA,3089,2021-03-15,Oxford/AstraZeneca,Africa
-2021-09-08,SAU,Saudi Arabia,38738841,22604145,16134696,NA,198098,109.62,63.96,45.65,NA,5605,2020-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech",Asia
-2021-09-01,SEN,Senegal,1732362,1167364,564998,NA,2830,10.07,6.79,3.29,NA,165,2021-02-23,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-09-09,SAU,Saudi Arabia,39009895,22662007,16347888,NA,202392,110.38,64.12,46.26,NA,5727,2020-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech",Asia
+2021-09-09,SEN,Senegal,1744098,1179100,564998,NA,1467,10.14,6.86,3.29,NA,85,2021-02-23,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-08,SRB,Serbia,6069521,2955866,2829578,284077,19343,89.2,43.44,41.58,4.17,2843,2020-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Europe
 2021-08-09,SYC,Seychelles,143490,73777,69713,NA,114,145.07,74.59,70.48,NA,1153,2021-01-10,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-08-27,SLE,Sierra Leone,193557,159793,33764,NA,1415,2.38,1.96,0.41,NA,174,2021-03-22,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-09-06,SGP,Singapore,8976698,4623190,4511788,NA,14385,152.23,78.4,76.51,NA,2440,2020-12-30,"Moderna, Pfizer/BioNTech, Sinovac",Asia
 2021-09-03,SXM,Sint Maarten,48514,25376,23138,NA,67,111.73,58.44,53.29,NA,1543,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
-2021-09-08,SVK,Slovakia,4586331,2394521,2191810,NA,4280,83.99,43.85,40.14,NA,784,2020-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,SVN,Slovenia,1939019,1013494,925525,NA,5165,93.28,48.76,44.52,NA,2485,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,SVK,Slovakia,4593597,2397779,2195818,NA,3948,84.12,43.91,40.21,NA,723,2020-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,SVN,Slovenia,1950228,1019524,930704,NA,5714,93.82,49.05,44.77,NA,2749,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-08-31,SLB,Solomon Islands,83441,62891,20550,NA,1341,11.85,8.93,2.92,NA,1905,2021-03-24,"Oxford/AstraZeneca, Sinopharm/Beijing",Oceania
 2021-09-06,SOM,Somalia,310005,207256,102749,NA,2707,1.89,1.27,0.63,NA,165,2021-03-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",Africa
-2021-09-07,ZAF,South Africa,13892301,10218230,6751662,NA,189111,23.14,17.02,11.24,NA,3150,2021-02-17,"Johnson&Johnson, Pfizer/BioNTech",Africa
-2021-09-08,KOR,South Korea,49522835,31709767,19115022,NA,714217,96.53,61.81,37.26,NA,13921,2021-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
+2021-09-09,ZAF,South Africa,14126008,10359652,6888163,NA,144820,23.53,17.25,11.47,NA,2412,2021-02-17,"Johnson&Johnson, Pfizer/BioNTech",Africa
+2021-09-09,KOR,South Korea,50242466,32149176,19406809,NA,721568,97.93,62.66,37.83,NA,14064,2021-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
 2021-09-06,SSD,South Sudan,59865,53147,6718,NA,388,0.53,0.47,0.06,NA,34,2021-04-06,Oxford/AstraZeneca,Africa
-2021-09-07,ESP,Spain,67798496,37008271,34739745,NA,238325,145.04,79.17,74.32,NA,5098,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,LKA,Sri Lanka,22667612,12952755,9714857,NA,289919,105.44,60.25,45.19,NA,13486,2021-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-08,ESP,Spain,68002439,37067635,34903802,NA,219673,145.47,79.3,74.67,NA,4699,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,LKA,Sri Lanka,23123345,13128756,9994589,NA,282435,107.56,61.07,46.49,NA,13138,2021-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2021-08-22,SDN,Sudan,1129054,645926,241564,NA,27372,2.51,1.44,0.54,NA,609,2021-03-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Africa
-2021-09-08,SUR,Suriname,359651,209244,150407,NA,2804,60.77,35.36,25.42,NA,4738,2021-02-23,Oxford/AstraZeneca,Latin America and the Caribbean
-2021-09-03,SWE,Sweden,12817302,6934437,5881550,NA,60764,126.15,68.25,57.89,NA,5981,2020-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-07,CHE,Switzerland,9769484,5078584,4504926,NA,21907,112.09,58.27,51.69,NA,2514,2020-12-23,"Moderna, Pfizer/BioNTech",Europe
+2021-09-09,SUR,Suriname,361815,210235,151580,NA,2721,61.14,35.52,25.61,NA,4598,2021-02-23,Oxford/AstraZeneca,Latin America and the Caribbean
+2021-09-09,SWE,Sweden,13077350,6992336,6085014,NA,46516,128.71,68.82,59.89,NA,4578,2020-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-08,CHE,Switzerland,9801539,5098753,4515089,NA,22478,112.46,58.5,51.81,NA,2579,2020-12-23,"Moderna, Pfizer/BioNTech",Europe
 2021-08-22,SYR,Syria,388520,230510,158010,NA,2578,2.13,1.26,0.86,NA,141,2021-02-28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
-2021-09-08,TWN,Taiwan,11660683,10652241,1008442,NA,96887,48.88,44.65,4.23,NA,4061,2021-03-22,"Medigen, Moderna, Oxford/AstraZeneca",Asia
-2021-08-31,TJK,Tajikistan,2808056,2009748,798308,NA,69039,28.8,20.61,8.19,NA,7081,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinovac",Asia
+2021-09-09,TWN,Taiwan,11961678,10941158,1020520,NA,136777,50.14,45.87,4.28,NA,5734,2021-03-22,"Medigen, Moderna, Oxford/AstraZeneca",Asia
+2021-09-05,TJK,Tajikistan,3061270,2080138,981132,NA,55899,31.4,21.34,10.06,NA,5733,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinovac",Asia
 2021-08-28,TZA,Tanzania,304603,304603,304603,NA,7165,0.5,0.5,0.5,NA,117,2021-07-28,Johnson&Johnson,Africa
-2021-09-08,THA,Thailand,37461284,25954106,10900001,607177,694469,53.55,37.1,15.58,0.87,9928,2021-02-28,"Oxford/AstraZeneca, Sinovac",Asia
+2021-09-09,THA,Thailand,38174738,26292211,11272593,609934,678182,54.57,37.59,16.12,0.87,9695,2021-02-28,"Oxford/AstraZeneca, Sinovac",Asia
 2021-08-31,TLS,East Timor,588299,389989,198310,NA,4502,43.78,29.02,14.76,NA,3350,2021-04-07,"Oxford/AstraZeneca, Sinovac",Asia
 2021-09-05,TGO,Togo,651941,414249,237692,NA,7276,7.69,4.89,2.8,NA,858,2021-03-10,Oxford/AstraZeneca,Africa
 2021-08-16,TKL,Tokelau,968,968,NA,NA,1,70.76,70.76,NA,NA,731,,Pfizer/BioNTech,Oceania
 2021-08-31,TON,Tonga,68404,41130,27274,NA,1723,64.07,38.53,25.55,NA,16139,2021-04-15,Oxford/AstraZeneca,Oceania
-2021-09-08,TTO,Trinidad and Tobago,953170,532484,420686,NA,6081,67.92,37.94,29.98,NA,4333,2021-02-17,"Oxford/AstraZeneca, Sinopharm/Beijing",Latin America and the Caribbean
+2021-09-09,TTO,Trinidad and Tobago,962287,536524,425763,NA,6374,68.57,38.23,30.34,NA,4542,2021-02-17,"Oxford/AstraZeneca, Sinopharm/Beijing",Latin America and the Caribbean
 2021-09-08,TUN,Tunisia,6292293,4422956,2560775,NA,79512,52.72,37.06,21.45,NA,6662,2021-03-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
-2021-09-08,TUR,Turkey,99582607,50648789,39298396,9635422,672675,117.1,59.56,46.21,11.33,7910,2021-01-13,"Pfizer/BioNTech, Sinovac",Asia
+2021-09-09,TUR,Turkey,100267925,50930700,39599848,9737377,671803,117.9,59.89,46.56,11.45,7900,2021-01-13,"Pfizer/BioNTech, Sinovac",Asia
 2021-04-04,TKM,Turkmenistan,41993,32240,9753,NA,NA,0.69,0.53,0.16,NA,NA,2021-02-03,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Asia
 2021-09-03,TCA,Turks and Caicos Islands,50875,26606,24269,NA,84,129.7,67.83,61.87,NA,2141,2021-01-11,Pfizer/BioNTech,Latin America and the Caribbean
 2021-08-26,TUV,Tuvalu,10692,6167,4525,NA,240,89.66,51.71,37.95,NA,20126,2021-04-14,Oxford/AstraZeneca,Oceania
 2021-09-05,UGA,Uganda,1476526,NA,NA,NA,16248,3.13,NA,NA,NA,345,2021-03-10,Oxford/AstraZeneca,Africa
-2021-09-08,UKR,Ukraine,10234210,5722210,4512000,NA,125145,23.54,13.16,10.38,NA,2879,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Europe
-2021-09-07,ARE,United Arab Emirates,18542213,8812200,7704493,NA,54746,185.59,88.2,77.11,NA,5479,2020-12-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",Asia
-2021-09-07,GBR,United Kingdom,91940381,48319435,43620946,NA,134641,134.8,70.84,63.95,NA,1974,2020-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2021-09-08,USA,United States,376955132,208024209,177104652,NA,810715,112.08,61.85,52.66,NA,2411,2020-12-14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",North America
-2021-09-08,URY,Uruguay,5849658,2696492,2534250,618916,30413,167.85,77.37,72.72,17.76,8726,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
-2021-09-08,UZB,Uzbekistan,15978140,9787973,NA,NA,179219,47.08,28.84,NA,NA,5281,2021-04-01,"Oxford/AstraZeneca, Sputnik V, ZF2001",Asia
+2021-09-09,UKR,Ukraine,10407825,5789252,4618573,NA,128123,23.94,13.32,10.63,NA,2948,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Europe
+2021-09-09,ARE,United Arab Emirates,18710538,8861741,7754024,NA,56620,187.27,88.7,77.61,NA,5667,2020-12-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",Asia
+2021-09-08,GBR,United Kingdom,92053472,48344566,43708906,NA,128301,134.96,70.88,64.08,NA,1881,2020-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2021-09-09,USA,United States,377622065,208305270,177433044,NA,786493,112.28,61.94,52.76,NA,2338,2020-12-14,"Johnson&Johnson, Moderna, Pfizer/BioNTech",North America
+2021-09-09,URY,Uruguay,5888527,2701882,2535843,650802,29255,168.96,77.53,72.76,18.67,8394,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2021-08-29,VUT,Vanuatu,43645,34753,8906,NA,969,13.88,11.05,2.83,NA,3081,2021-06-02,"Oxford/AstraZeneca, Sinopharm/Beijing",Oceania
 2021-08-27,VEN,Venezuela,9342817,6006270,3336547,NA,466473,32.55,20.92,11.62,NA,16251,2021-02-18,"Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",Latin America and the Caribbean
-2021-09-08,VNM,Vietnam,23577917,19809234,3768683,NA,481077,24.02,20.18,3.84,NA,4901,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2021-09-08,VNM,Vietnam,23577917,19809234,3768683,NA,433656,24.02,20.18,3.84,NA,4417,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2021-08-31,WLF,Wallis and Futuna,9801,4952,4849,NA,16,88.35,44.64,43.71,NA,1442,2021-03-20,Oxford/AstraZeneca,Oceania
 2021-07-27,YEM,Yemen,311483,298161,13322,NA,939,1.02,0.98,0.04,NA,31,2021-04-20,Oxford/AstraZeneca,Asia
 2021-09-08,ZMB,Zambia,649919,354752,295167,NA,9381,3.43,1.87,1.56,NA,496,2021-04-14,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
-2021-09-08,ZWE,Zimbabwe,4553076,2781803,1771273,NA,40378,30.17,18.43,11.74,NA,2675,2021-02-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
+2021-09-09,ZWE,Zimbabwe,4602020,2804924,1797096,NA,39755,30.49,18.59,11.91,NA,2634,2021-02-18,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
