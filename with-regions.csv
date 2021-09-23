@@ -144,12 +144,12 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2021-09-21,NOR,Norway,7658562,4089598,3568964,NA,24575,140.12,74.82,65.3,NA,4496,2020-12-27,"Moderna, Pfizer/BioNTech",Europe
 2021-09-20,OMN,Oman,4636486,2810262,1826224,NA,42802,88.76,53.8,34.96,NA,8194,2020-12-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
 2021-09-22,PAK,Pakistan,76141484,56229457,25493964,NA,754887,33.81,24.97,11.32,NA,3352,2021-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
-2021-09-19,PSE,West Bank + Gaza,1857274,1292634,564640,NA,20144,35.56,24.75,10.81,NA,3857,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
+2021-09-22,PSE,West Bank + Gaza,1966806,1333045,633761,NA,26489,37.66,25.52,12.13,NA,5072,2021-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Asia
 2021-09-22,PAN,Panama,5084912,2903867,2181122,NA,17224,116.05,66.27,49.78,NA,3931,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2021-09-14,PNG,Papua New Guinea,154710,114419,40291,NA,2895,1.7,1.25,0.44,NA,317,2021-03-31,Oxford/AstraZeneca,Oceania
 2021-09-17,PRY,Paraguay,4401222,2550991,1850231,NA,18596,60.96,35.33,25.63,NA,2576,2021-02-22,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Latin America and the Caribbean
 2021-09-18,PER,Peru,23478943,14141325,9337618,NA,236698,70.38,42.39,27.99,NA,7095,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
-2021-09-21,PHL,Philippines,42131771,NA,19023958,NA,371671,37.94,NA,17.13,NA,3347,2021-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
+2021-09-22,PHL,Philippines,42659375,NA,23282540,NA,375570,38.42,NA,20.97,NA,3382,2021-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
 2021-09-07,PCN,Pitcairn,94,47,47,NA,0,200,100,100,NA,0,2021-05-18,Oxford/AstraZeneca,Oceania
 2021-09-22,POL,Poland,37073097,19712418,19320780,NA,33129,98.08,52.15,51.12,NA,876,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-22,PRT,Portugal,15868983,8906055,8579502,NA,38078,156.07,87.59,84.38,NA,3745,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
@@ -185,10 +185,10 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2021-09-22,SWE,Sweden,13532333,7104072,6426773,NA,33113,133.19,69.92,63.25,NA,3259,2020-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2021-09-21,CHE,Switzerland,10190410,5357746,4635506,NA,29365,116.92,61.47,53.19,NA,3369,2020-12-23,"Moderna, Pfizer/BioNTech",Europe
 2021-09-13,SYR,Syria,533949,285087,248862,NA,9335,2.92,1.56,1.36,NA,511,2021-02-28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
-2021-09-21,TWN,Taiwan,13405357,11689760,1715597,NA,128671,56.2,49,7.19,NA,5394,2021-03-22,"Medigen, Moderna, Oxford/AstraZeneca",Asia
+2021-09-22,TWN,Taiwan,13589767,11763739,1826028,NA,125906,56.97,49.31,7.65,NA,5278,2021-03-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Asia
 2021-09-20,TJK,Tajikistan,3872421,2307140,1565281,NA,60806,39.72,23.66,16.05,NA,6237,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinovac",Asia
 2021-09-11,TZA,Tanzania,350000,350000,350000,NA,3243,0.57,0.57,0.57,NA,53,2021-07-28,Johnson&Johnson,Africa
-2021-09-20,THA,Thailand,44742049,29002572,15118015,621462,637956,63.96,41.46,21.61,0.89,9120,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
+2021-09-22,THA,Thailand,46023016,29501110,15899158,622748,625131,65.79,42.17,22.73,0.89,8937,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
 2021-09-20,TLS,East Timor,668010,420827,247183,NA,4095,49.71,31.31,18.39,NA,3047,2021-04-07,"Oxford/AstraZeneca, Sinovac",Asia
 2021-09-17,TGO,Togo,832822,445041,387781,NA,15073,9.82,5.25,4.57,NA,1778,2021-03-10,Oxford/AstraZeneca,Africa
 2021-08-16,TKL,Tokelau,968,968,NA,NA,1,70.76,70.76,NA,NA,731,,Pfizer/BioNTech,Oceania
