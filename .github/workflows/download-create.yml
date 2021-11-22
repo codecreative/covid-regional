@@ -29,7 +29,7 @@ jobs:
       - name: Download, Parse and Create original CSV
         run: Rscript vaccines-join.R
 
-      - name: Download, Parse and Create news CSV
+      - name: Download, Parse and Create new CSV
         run: Rscript vaccines-join-v2.R
         
       # Add new files in data folder, commit along with other modified files, push
