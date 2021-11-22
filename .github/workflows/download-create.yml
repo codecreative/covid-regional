@@ -26,8 +26,11 @@ jobs:
         if: steps.cache-r-packages.outputs.cache-hit != 'true'
         run: R -e 'source("install-packages.R", echo = TRUE)'          
         
-      - name: Download, Parse and Create CSV
+      - name: Download, Parse and Create original CSV
         run: Rscript vaccines-join.R
+
+      - name: Download, Parse and Create news CSV
+        run: Rscript vaccines-join-v2.R
         
       # Add new files in data folder, commit along with other modified files, push
       - name: Commit and push if it changed
