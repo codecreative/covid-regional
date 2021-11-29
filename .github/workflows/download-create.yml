@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-download--create:
-    runs-on: macOS-latest
+    runs-on: macOS-10.15
     steps:
       - uses: actions/checkout@v2
       
