@@ -1,5 +1,5 @@
 date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,dailyDosesAvg,totalDosesPer100,peopleVaccinatedPer100,peopleFullyVaccinatedPer100,total_boosters_per_hundred,dailyDosesAvgPer1M,daily_people_vaccinated,daily_people_vaccinated_per_hundred,firstShotDate,vaccines,cnnRegion
-2021-11-27,AFG,Afghanistan,5228706,4397449,3566192,NA,15991,13.13,11.04,8.95,NA,401,16001,0.04,2021-02-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
+2021-12-27,AFG,Afghanistan,4674518,4142857,3753224,NA,15263,11.73,10.4,9.42,NA,383,14248,0.036,2021-02-23,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2021-12-28,ALB,Albania,2316606,1141486,1031132,143988,6583,80.64,39.73,35.89,5.01,2291,2186,0.076,2021-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Europe
 2021-12-21,DZA,Algeria,12545356,7060737,5609040,NA,15433,28.12,15.83,12.57,NA,346,5837,0.013,2021-01-30,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
 2021-12-12,AND,Andorra,115709,56628,50551,8530,1326,149.58,73.21,65.35,11.03,17142,76,0.098,2021-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
@@ -138,7 +138,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2021-12-20,NCL,New Caledonia,355717,182486,173231,NA,198,123.42,63.32,60.1,NA,687,62,0.022,2021-01-20,Pfizer/BioNTech,Oceania
 2022-01-03,NZL,New Zealand,8195277,3975528,3856703,363046,11579,159.98,77.61,75.29,7.09,2260,498,0.01,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Oceania
 2021-12-29,NIC,Nicaragua,7785141,4879356,2905785,NA,34048,116.15,72.8,43.35,NA,5080,17890,0.267,2021-03-02,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",Latin America and the Caribbean
-2021-11-28,NER,Niger,971636,507223,464413,NA,614,3.87,2.02,1.85,NA,24,81,0,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2021-12-28,NER,Niger,1716942,NA,963375,NA,24844,6.83,NA,3.83,NA,989,NA,NA,2021-03-29,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2021-12-31,NGA,Nigeria,14838199,10310476,4482899,NA,154138,7.02,4.88,2.12,NA,729,122649,0.058,2021-03-05,Oxford/AstraZeneca,Africa
 2021-08-02,NIU,Niue,2352,1202,1150,NA,42,145.72,74.47,71.25,NA,26022,1,0.062,2021-06-03,Oxford/AstraZeneca,Oceania
 2021-12-19,MKD,North Macedonia,1741245,840411,811664,89170,2350,83.61,40.35,38.97,4.28,1128,514,0.025,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Europe
