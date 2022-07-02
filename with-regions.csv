@@ -42,7 +42,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-07-01,CHL,Chile,59493918,18003730,17581173,24483756,51457,309.66,93.71,91.51,127.44,2678,768,0.004,2020-12-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
 2022-07-01,CHN,Mainland China,3403201000,NA,NA,NA,634143,235.64,NA,NA,NA,439,NA,NA,2020-12-15,"CanSino, IMBCAMS, KCONVAC, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",Asia
 2022-06-24,COL,Colombia,85767160,42418509,36180137,12964054,43920,167.3,82.74,70.57,25.29,857,3796,0.007,2021-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Latin America and the Caribbean
-2022-05-22,COM,Comoros,642520,341302,301218,NA,8,72.32,38.42,33.9,NA,9,0,0,2021-04-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
+2022-06-19,COM,Comoros,642320,341302,301218,NA,0,72.3,38.42,33.9,NA,0,0,0,2021-04-10,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2022-06-19,COG,Congo,831318,693902,652422,NA,0,14.7,12.27,11.53,NA,0,0,0,2021-03-23,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Africa
 2022-06-06,COK,Cook Islands,39780,15033,14685,10062,3,226.38,85.55,83.57,57.26,171,0,0,2021-05-18,Pfizer/BioNTech,Oceania
 2022-05-23,CRI,Costa Rica,11017624,4437629,4143017,2299181,17890,214.39,86.35,80.62,44.74,3481,1031,0.02,2020-12-24,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
@@ -111,7 +111,6 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-06-27,LBY,Libya,3579762,2269135,1183940,126687,1793,51.44,32.61,17.01,1.82,258,630,0.009,2021-04-10,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Africa
 2022-06-23,LIE,Liechtenstein,70780,26744,26429,18624,7,185.03,69.91,69.09,48.69,183,0,0,2021-01-18,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Europe
 2022-07-01,LTU,Lithuania,4489075,1952418,1876696,934453,80,166.89,72.58,69.77,34.74,30,15,0.001,2020-12-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2022-06-25,LUX,Luxembourg,1303110,481281,NA,389455,156,205.27,75.81,NA,61.35,246,8,0.001,2020-12-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-07-01,MAC,Macao,1440454,613839,586137,279849,487,218.78,93.23,89.03,42.5,740,134,0.02,2021-02-09,"Pfizer/BioNTech, Sinopharm/Beijing",Asia
 2022-06-05,MDG,Madagascar,2369775,1290584,1199011,43528,0,8.34,4.54,4.22,0.15,0,0,0,2021-05-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",Africa
 2022-05-29,MWI,Malawi,2166402,2047317,1590299,740,0,11.03,10.42,8.09,0,0,64387,0.328,2021-03-11,"Johnson&Johnson, Oxford/AstraZeneca",Africa
@@ -133,7 +132,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-06-05,"NAM",Namibia,825518,496475,426681,64392,127,31.91,19.19,16.49,2.49,49,1243,0.048,2021-03-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Africa
 2022-04-11,NRU,Nauru,22976,9464,8585,4927,293,211.31,87.04,78.96,45.31,26947,15,0.138,2021-04-09,Oxford/AstraZeneca,Oceania
 2022-06-28,NPL,Nepal,46113867,22995709,20267818,6300646,102550,155.4,77.49,68.3,21.23,3456,57369,0.193,2021-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Asia
-2022-06-25,NLD,Netherlands,64896384,24715243,23205935,18482834,6069,377.9,143.92,135.13,107.63,353,361,0.002,2021-01-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
+2022-06-11,NLD,Netherlands,33326378,12804977,11980109,9295105,1769,194.06,74.56,69.76,54.13,103,194,0.001,2021-01-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-06-20,NCL,New Caledonia,461709,188411,180351,92947,29,160.19,65.37,62.57,32.25,101,4,0.001,2021-01-20,Pfizer/BioNTech,Oceania
 2022-06-30,NZL,New Zealand,11141911,4292747,4114696,2734468,3790,217.35,83.74,80.27,53.34,739,67,0.001,2021-02-20,"Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Oceania
 2022-06-30,NIC,Nicaragua,11441278,5938231,5503047,NA,14308,170.7,88.6,82.11,NA,2135,2983,0.045,2021-03-02,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",Latin America and the Caribbean
@@ -180,6 +179,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-06-19,SSD,South Sudan,1214353,1164135,1122087,NA,11064,10.67,10.23,9.86,NA,972,11063,0.097,2021-04-06,"Johnson&Johnson, Oxford/AstraZeneca",Africa
 2022-06-29,ESP,Spain,95153556,41259173,40562786,25436397,11716,203.56,88.26,86.77,54.41,251,695,0.001,2020-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-06-14,LKA,Sri Lanka,39586599,17073712,14523208,7989679,1436,184.15,79.42,67.56,37.17,67,108,0.001,2021-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
+2022-06-28,SDN,Sudan,8179010,6651268,4536964,50234,26277,18.21,14.81,10.1,0.11,585,31370,0.07,2021-03-09,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Africa
 2022-05-23,SUR,Suriname,505699,267820,237879,48889,14,85.45,45.26,40.2,8.26,24,6,0.001,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
 2022-06-23,SWE,Sweden,22674504,7838695,7651988,5439028,6212,223.17,77.15,75.31,53.53,611,153,0.002,2020-12-27,"Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-06-27,CHE,Switzerland,15759752,6087852,6002672,3781389,1605,180.82,69.85,68.87,43.39,184,82,0.001,2020-12-23,"Johnson&Johnson, Moderna, Pfizer/BioNTech",Europe
