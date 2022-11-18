@@ -12,7 +12,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-09-28,AUS,Australia,63461493,22443557,21784904,14265648,713440,242.43,85.74,83.22,54.5,27254,746,0.003,2021-02-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Oceania
 2022-11-16,AUT,Austria,20001321,6893280,NA,6476829,12320,223.74,77.11,NA,72.45,1378,95,0.001,2020-12-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-08-28,AZE,Azerbaijan,13857111,5373253,4862494,3362453,1313,133.78,51.88,46.94,32.46,127,236,0.002,2021-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",Asia
-2022-11-11,BHS,Bahamas,363832,173843,165317,36421,41,88.74,42.4,40.32,8.88,100,15,0.004,2021-03-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
+2022-11-16,BHS,Bahamas,364701,174147,165633,36670,136,88.95,42.48,40.4,8.94,332,48,0.012,2021-03-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2022-11-17,BHR,Bahrain,3475101,1241025,1226588,1007488,74,236.04,84.3,83.31,68.43,50,8,0.001,2020-12-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Asia
 2022-11-09,BGD,Bangladesh,325402861,143323610,124336665,58282310,463436,190.09,83.72,72.63,34.05,2707,398576,0.233,2021-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Asia
 2022-11-04,BRB,Barbados,380826,163749,154907,62170,8,135.21,58.14,55,22.07,28,2,0.001,2021-02-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",Latin America and the Caribbean
@@ -79,7 +79,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-11-17,GRC,Greece,21812507,7930870,7641249,6818532,7556,210.04,76.37,73.58,65.66,728,40,0,2021-01-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-03-07,GRL,Greenland,79745,41243,38502,NA,2,141.16,73,68.15,NA,35,1,0.002,2021-01-04,Moderna,North America
 2022-11-11,GRD,Grenada,90507,44180,38975,7352,6,72.14,35.21,31.07,5.86,48,2,0.002,2021-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
-2022-11-11,GTM,Guatemala,19896706,8843207,6998768,4054731,3056,111.5,49.56,39.22,22.72,171,548,0.003,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Latin America and the Caribbean
+2022-11-16,GTM,Guatemala,19920061,8847788,7010187,4062086,4210,111.64,49.58,39.29,22.76,236,811,0.005,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",Latin America and the Caribbean
 2022-07-12,GGY,Guernsey,157708,NA,NA,NA,36,249.03,NA,NA,NA,568,NA,NA,2020-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
 2022-11-06,GIN,Guinea,8349923,5809781,3176770,208537,51669,60.25,41.92,22.92,1.5,3728,42876,0.309,2020-12-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
 2022-09-18,GNB,Guinea-Bissau,673091,640393,404228,745,0,31.97,30.41,19.2,0.04,0,3380,0.161,2021-04-02,"Oxford/AstraZeneca, Sinopharm/Beijing",Africa
@@ -145,7 +145,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2021-11-26,OWID_CYN,Northern Cyprus,617389,284357,275988,80243,6011,161.27,74.28,72.09,20.96,15701,721,0.188,2021-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Europe
 2022-11-13,NOR,Norway,12145560,4346995,4054726,3743839,2914,223.5,79.99,74.61,68.89,536,19,0,2020-12-27,"Moderna, Pfizer/BioNTech",Europe
 2022-10-25,OMN,Oman,7086050,3257365,3048826,779859,92,154.84,71.18,66.62,17.04,20,8,0,2020-12-27,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Asia
-2022-11-15,PAK,Pakistan,301017439,139581997,132160621,47744657,81570,127.64,59.19,56.04,20.25,346,3132,0.001,2021-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
+2022-11-17,PAK,Pakistan,301078608,139584810,132169217,47794419,67997,127.67,59.19,56.05,20.27,288,2596,0.001,2021-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Asia
 2022-10-18,PSE,West Bank + Gaza,3748571,2012767,1776973,336967,106,71.4,38.34,33.85,6.42,20,33,0.001,2021-02-02,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Asia
 2022-11-11,PAN,Panama,8671222,3513104,3159050,1999068,1225,196.69,79.69,71.66,45.34,278,271,0.006,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",Latin America and the Caribbean
 2022-11-14,PNG,Papua New Guinea,687220,359043,299124,29053,457,6.78,3.54,2.95,0.29,45,193,0.002,2021-03-31,Oxford/AstraZeneca,Oceania
@@ -154,7 +154,7 @@ date,code,name,totalDoses,peopleVaccinated,peopleFullyVaccinated,total_boosters,
 2022-10-27,PHL,Philippines,167964363,78042080,73524190,20561136,46451,145.35,67.53,63.62,17.79,402,6845,0.006,2021-03-01,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Asia
 2022-08-29,PCN,Pitcairn,117,47,47,23,0,248.94,100,100,48.94,0,0,0,2021-05-18,Oxford/AstraZeneca,Oceania
 2022-11-16,POL,Poland,57562028,22819285,22592252,14995072,8537,144.42,57.25,56.68,37.62,214,1012,0.003,2020-12-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",Europe
-2022-11-04,PRT,Portugal,26766957,9764677,8877633,6973626,27645,260.61,95.07,86.44,67.9,2692,57,0.001,2020-12-27,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Europe
+2022-11-11,PRT,Portugal,26971780,9766176,8879175,6983284,28517,262.6,95.09,86.45,67.99,2776,80,0.001,2020-12-27,"Covaxin, Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",Europe
 2022-11-08,QAT,Qatar,7594620,2848221,2848220,1898179,328,281.79,105.68,105.68,70.43,122,89,0.003,2020-12-23,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",Asia
 2022-11-11,RUS,Russia,181063313,86092959,77889761,19319387,69577,125.12,59.49,53.82,13.35,481,20840,0.014,2020-12-05,"EpiVacCorona, Sputnik V",Europe
 2022-11-06,RWA,Rwanda,26106436,9933754,9279659,5879013,0,189.5,72.11,67.36,42.67,0,27607,0.2,2021-02-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",Africa
